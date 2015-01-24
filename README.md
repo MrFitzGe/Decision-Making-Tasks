@@ -5,8 +5,8 @@ Originally used by the Culture Science Institute at Nanyang Technological Univer
 by Dr. George Christopoulos and Sean Fitzgerald (2014)
 
 ## Binary Decision Tasks included:
-> Temporal Discounting choices
-> Effort Discounting choices
-> Risky gambles vs. Certain outcome choices presented according to Huettel 2006 and O'Dhaniel Mullette-Gillman
+1. Temporal Discounting choices
+2. Effort Discounting choices
+3. Risky gambles vs. Certain outcome choices presented according to Huettel 2006 and O'Dhaniel Mullette-Gillman
 
 Contact information for the author:  Sean <fitzgesr@gmail.com>
